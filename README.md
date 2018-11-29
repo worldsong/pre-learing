@@ -1,6 +1,10 @@
 # 前端预习资料
 ## 包括电子书、笔记、视频、博文链接地址等。
 
+### 前端环境
+### Git下载安装:https://pan.baidu.com/s/1B2Ajfb4mvmUV4deveUpgyg
+### Webstorm下载安装：https://pan.baidu.com/s/15H_h6hI7txbmPo-Qc6bz2Q  License Server：http://idea.imsxm.com/
+
 ## 直播课程安排
 ### ES6语法精讲
 【直播】ES6语法精讲及应用(12月1日 20:00-22:00)
