@@ -4,6 +4,7 @@
 ### 前端环境
 ### Git下载安装:https://pan.baidu.com/s/1B2Ajfb4mvmUV4deveUpgyg
 ### Webstorm下载安装：https://pan.baidu.com/s/15H_h6hI7txbmPo-Qc6bz2Q  License Server：http://idea.imsxm.com/
+### nvm-windows（1.1.6版） 下载安装：https://pan.baidu.com/s/1CTbiH1j_cZxLje21qYsNUg
 
 ## 直播课程安排
 ### ES6语法精讲
