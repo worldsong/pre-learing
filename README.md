@@ -4,7 +4,7 @@
 ### 前端环境
 ### Git下载安装:https://pan.baidu.com/s/1B2Ajfb4mvmUV4deveUpgyg
 ### Webstorm下载安装：https://pan.baidu.com/s/15H_h6hI7txbmPo-Qc6bz2Q  License Server：http://idea.imsxm.com/
-### nvm-windows（1.1.6版） 下载安装：https://pan.baidu.com/s/1CTbiH1j_cZxLje21qYsNUg
+### nvm-windows（1.1.7版） 下载安装：https://pan.baidu.com/s/1vIR4zGp6O_svLxwNRcpoew
 ### MongoDB（3.2.10） 下载安装：https://pan.baidu.com/s/1GRLUzUGgWw1G51bWHRZcww
 ### MongoDB图形化客户端 下载安装：https://pan.baidu.com/s/1al1PTQcuaYPfZL9PVolZeA
 
