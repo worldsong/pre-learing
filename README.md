@@ -7,6 +7,7 @@
 ### nvm-windows（1.1.7版） 下载安装：https://pan.baidu.com/s/1vIR4zGp6O_svLxwNRcpoew
 ### MongoDB（3.2.10） 下载安装：https://pan.baidu.com/s/1GRLUzUGgWw1G51bWHRZcww
 ### MongoDB图形化客户端 下载安装：https://pan.baidu.com/s/1al1PTQcuaYPfZL9PVolZeA
+### Vue.js devtools(4.1.5 beta) Chrome 插件下载安装：https://pan.baidu.com/s/1axp1kCbwxzy4TKq24R81Kw
 
 ## 直播课程安排
 ### ES6语法精讲
